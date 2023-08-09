@@ -2,4 +2,4 @@
 # Syntax: pattern    owner(s)
 
 # Match everything in the master branch
-/master/*    @leo.pedroso1
+/master/*    @leopedroso1
